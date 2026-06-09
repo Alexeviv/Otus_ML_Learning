@@ -11,6 +11,10 @@ alfa_beta=alfa+beta
 print(alfa_beta)
 print(type(alfa_beta))
 print(id(alfa_beta))
+print(f'alfa = {alfa}, beta = {beta}, alfa_beta = {alfa_beta}')
+output_format="f'alfa = {alfa}, beta = {beta}, alfa_beta = {alfa_beta}'"
+print(output_format)
+
 
 
 # This is a sample Python script.
