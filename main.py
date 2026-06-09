@@ -1,4 +1,4 @@
-alfa = input('введи переменную: ')
+alfa = int(input('введи переменную: '))
 print(alfa)
 print(type(alfa))
 print(id(alfa))
@@ -7,6 +7,10 @@ print(beta)
 print(beta*alfa)
 print(type(beta*alfa))
 print(id(beta*alfa))
+alfa_beta=alfa+beta
+print(alfa_beta)
+print(type(alfa_beta))
+print(id(alfa_beta))
 
 
 # This is a sample Python script.
