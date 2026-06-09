@@ -2,6 +2,11 @@ alfa = input('введи переменную: ')
 print(alfa)
 print(type(alfa))
 print(id(alfa))
+beta = 2
+print(beta)
+print(beta*alfa)
+print(type(beta*alfa))
+print(id(beta*alfa))
 
 
 # This is a sample Python script.
